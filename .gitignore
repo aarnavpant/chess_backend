@@ -1,0 +1,7 @@
+#node.js dependencies
+node_modules/
+# Temporary files created by OS
+Thumbs.db
+desktop.ini
+# output dir
+dist/
